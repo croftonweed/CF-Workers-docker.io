@@ -5,7 +5,7 @@ const hub_host = 'registry-1.docker.io'
 // Docker认证服务器地址
 const auth_url = 'https://auth.docker.io'
 // 自定义的工作服务器地址
-let workers_url = 'https://docker2.holyapp.cc'
+let workers_url = 'https://docker.holyapp.cc'
 
 /**
  * 静态文件 (404.html, sw.js, conf.js)
